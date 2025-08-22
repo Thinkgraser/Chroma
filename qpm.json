@@ -26,6 +26,9 @@
       ],
       "copyRelease": [
         "pwsh ./scripts/copy.ps1 --release"
+      ],
+      "qmod": [
+        "pwsh ./scripts/createqmod.ps1"
       ]
     },
     "ndk": "^27.2.12479018",
